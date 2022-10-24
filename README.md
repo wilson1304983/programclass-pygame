@@ -1,2 +1,2 @@
-這是我在108-2進階程式設計中所做的專案小遊戲
-希望你/妳會喜歡>_<
+W, S for left player to move up and down, C for serving
+O, L for right player to move up and down, M for serving
